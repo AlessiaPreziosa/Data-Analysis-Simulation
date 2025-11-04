@@ -1,12 +1,5 @@
 # Predicting Water Quality Index (WQI)
 
-**Author:** Preziosa Alessia (590012)  
-**Institution:** Politecnico di Bari – xTech bip  
-**Course:** Information Systems Design and Big Data  
-**Exam Date:** 27/05/2024  
-
----
-
 ## Overview
 
 This project aims to **predict the Water Quality Index (WQI)** using **Machine Learning** techniques based on water quality data collected across **18 Indian states**.  
